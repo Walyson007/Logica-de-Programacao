@@ -1,0 +1,14 @@
+-ALGORITMO PARA FAZER UM CAFÉ EM UMA CAFETEIRA DE COADOR-
+
+-Coloco água em um recipiente
+-Coloco esse recipiente no fogão
+-Ligo o fogo e espero esquentar a água
+-enquanto esquenta pego coador
+-coloco filtro no coador
+-coloco pó de cafe no filtro
+-coloco o coador a cima de outro recipiente
+-com a água já quente derramo ela no coador 
+-pego a jarra
+-abro a jarra
+-coloco o café ja feito na jarra
+-fecho a jarra

@@ -1,0 +1,14 @@
+-Algoritmo para trocar uma lâmpada-
+
+-desligo a luz
+-pego um banco
+-coloco a baixo da lâmpada 
+-subo no banco
+-desrosqueio a lâmpada
+-desço do banco
+-coloco a lâmpada velha em um lugar seguro
+-pego a lâmpada nova
+-subo no banco
+-rosqueio lâmpada nova
+-desço do banco
+-ligo a luz para vê se ta funcionando
