@@ -1,0 +1,7 @@
+-Algoritmo para preparar um sanduíche-
+
+-Pegar duas fatias de pão
+-pegar uma fatia de presunto
+-pegar uma fatia de queijo
+-colocar os frios em uma fatia de pão
+-fechar com a outra fatia de pão
