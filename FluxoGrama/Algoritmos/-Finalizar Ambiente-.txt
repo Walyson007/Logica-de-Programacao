@@ -1,0 +1,12 @@
+-Finalizar Ambiente-
+
+INICIO-
+desligar a maquina
+pegar os panos com álcool 
+limpar a maquina e o mouse 
+esperar chamar o numero
+guarda a maquina
+esperar o professor liberar
+FIM-
+
+

@@ -1,0 +1,8 @@
+-Algoritmo para sair de casa-
+
+-me arrumar
+-checar se as janelas estão fechadas
+-verificar se peguei as chaves
+-vê se não tem nada perigoso ligado
+-sair 
+-trancar a porta

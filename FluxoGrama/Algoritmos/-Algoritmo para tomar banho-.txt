@@ -1,0 +1,23 @@
+-Algoritmo para tomar banho-
+
+-tiro minha roupa
+-ligo o chuveiro
+-vejo se a temperatura tá boa
+-pego o shampoo 
+-abro o shampoo
+-coloco na minha mão
+-esfrego o cabelo
+-enxaguo o cabelo
+-pego o condicionador
+-abro o condicionador
+-coloco na minha mão
+-passo na pontas do cabelo
+-deixo agir
+-enquanto isso pego o sabonete
+-ensaboo o corpo
+-enxaguo tudo
+-desligo o chuveiro
+-pego a toalha
+-me secar
+-pegar roupa limpa
+-me vestir

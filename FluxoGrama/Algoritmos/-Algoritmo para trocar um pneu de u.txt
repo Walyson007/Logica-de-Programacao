@@ -1,0 +1,16 @@
+-Algoritmo para trocar um pneu de um carro-
+
+-pego o macaco (ferramenta)
+-coloco o ele de baixo do carro
+-uso ele para levantar o carro
+-pego a chave de roda
+-uso a chave parar tirar os parafuso de roda
+-retiro o pneu com cuidado
+-pego o estepe
+-verifico se o estepe está arrumado
+-encaixo o estepe forma correta
+-uso a chave de roda para apertar os parafusos no estepe
+-verifico se o pneu está correto 
+-A baixo o macaco
+-retiro o macaco
+-guardo todas as ferramentas
