@@ -13,4 +13,4 @@
 -verifico se o pneu está correto 
 -A baixo o macaco
 -retiro o macaco
--guardo todas as ferramentas
+-guardo todas as ferramentasz
